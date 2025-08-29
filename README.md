@@ -62,7 +62,7 @@ https://github.com/Paulodirino/ProjetoCartaoTrabalho2/blob/master/Frente.jpeg
 
 ### Card Back
 ![Fundo](https://github.com/user-attachments/assets/6132ca1a-5fa2-42f7-a0a0-aafe13eff8b3)
-
+https://github.com/Paulodirino/ProjetoCartaoTrabalho2/blob/master/Fundo.jpeg
 
 ```
 
