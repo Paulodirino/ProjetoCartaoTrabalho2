@@ -58,7 +58,7 @@ This is an Android project developed in Android Studio that simulates an interac
 ```markdown
 ### Card Front
 ![Frente](https://github.com/user-attachments/assets/bed06e52-6c7f-4746-b471-3a636755fcdc)
-
+https://github.com/Paulodirino/ProjetoCartaoTrabalho2/blob/master/Frente.jpeg
 
 ### Card Back
 ![Fundo](https://github.com/user-attachments/assets/6132ca1a-5fa2-42f7-a0a0-aafe13eff8b3)
