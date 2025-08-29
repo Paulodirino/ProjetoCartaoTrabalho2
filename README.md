@@ -59,10 +59,12 @@ This is an Android project developed in Android Studio that simulates an interac
 **Example of how to add in Markdown:**
 ```markdown
 ### Card Front
-![Card Front](path/to/your/screenshot_front.png)
+![Frente](https://github.com/user-attachments/assets/23f94f6b-eb23-4cb1-aa14-6acc65eef838)
+
 
 ### Card Back
-![Card Back](path/to/your/screenshot_back.png)
+![Fundo](https://github.com/user-attachments/assets/debe0b8c-bc2a-4b5d-a755-f001e9cc1708)
+
 ```
 
 ## Potential Future Improvements
