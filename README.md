@@ -54,8 +54,6 @@ This is an Android project developed in Android Studio that simulates an interac
 
 ## Screenshots
 
-(You can add the screenshots here)
-
 **Example of how to add in Markdown:**
 ```markdown
 ### Card Front
