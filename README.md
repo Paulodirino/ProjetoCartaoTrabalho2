@@ -52,19 +52,21 @@ This is an Android project developed in Android Studio that simulates an interac
 4.  Observe the real-time formatting and validations.
 5.  Click on the card to see it flip and display the opposite side.
 
+
 ## Screenshots
 
 **Example of how to add in Markdown:**
-```markdown
+
 ### Card Front
-https://github.com/user-attachments/assets/bed06e52-6c7f-4746-b471-3a636755fcdc
-https://github.com/Paulodirino/ProjetoCartaoTrabalho2/blob/master/Frente.jpeg
+![Frente](https://github.com/user-attachments/assets/a68ae3ac-41e6-4a29-a477-71b332da9724)
+
+
 
 ### Card Back
-![Fundo](https://github.com/user-attachments/assets/6132ca1a-5fa2-42f7-a0a0-aafe13eff8b3)
-https://github.com/Paulodirino/ProjetoCartaoTrabalho2/blob/master/Fundo.jpeg
+![Fundo](https://github.com/user-attachments/assets/ad770fd5-2874-4a72-be25-269189b152a5)
 
-```
+
+
 
 ## Potential Future Improvements
 
