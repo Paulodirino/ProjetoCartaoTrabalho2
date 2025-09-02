@@ -55,17 +55,10 @@ This is an Android project developed in Android Studio that simulates an interac
 
 ## Screenshots
 
-**Example of how to add in Markdown:**
-
-### Card Front
-![Frente](https://github.com/user-attachments/assets/a68ae3ac-41e6-4a29-a477-71b332da9724)
-
-
-
-### Card Back
-![Fundo](https://github.com/user-attachments/assets/ad770fd5-2874-4a72-be25-269189b152a5)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a68ae3ac-41e6-4a29-a477-71b332da9724" alt="Card Front" width="45%">
+  <img src="https://github.com/user-attachments/assets/ad770fd5-2874-4a72-be25-269189b152a5" alt="Card Back" width="45%">
+</p>
 
 
 ## Potential Future Improvements
