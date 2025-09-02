@@ -57,7 +57,7 @@ This is an Android project developed in Android Studio that simulates an interac
 **Example of how to add in Markdown:**
 ```markdown
 ### Card Front
-![Frente](https://github.com/user-attachments/assets/bed06e52-6c7f-4746-b471-3a636755fcdc)
+https://github.com/user-attachments/assets/bed06e52-6c7f-4746-b471-3a636755fcdc
 https://github.com/Paulodirino/ProjetoCartaoTrabalho2/blob/master/Frente.jpeg
 
 ### Card Back
